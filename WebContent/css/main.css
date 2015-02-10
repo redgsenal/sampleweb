@@ -1,0 +1,14 @@
+/* line 3, ../assets/sass/partials/_reset.scss */
+body {
+  background-color: #e1e1e1;
+  text-color: #0f0f0f;
+}
+/* line 7, ../assets/sass/partials/_reset.scss */
+body .sample {
+  color: #ffd455;
+}
+
+/* line 12, ../assets/sass/partials/_reset.scss */
+.hello {
+  color: #2a55ff;
+}

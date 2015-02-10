@@ -1,0 +1,14 @@
+@import 'compass/css3';
+
+body{
+	background-color: $gray;
+	text-color: $black;
+
+	.sample{
+		color: $yellow;
+	}
+}
+
+.hello{
+	color: $blue;
+}
